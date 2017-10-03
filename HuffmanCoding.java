@@ -1,4 +1,4 @@
-/* Here a demo of HuffMan Coding is shown. It takes an input String and then encodes that String by forming a Heap out of i, it 
+/* Here a demo of HuffMan Coding is shown. It takes an input String and then encodes that String by forming a Heap out of it, it 
    then pop() Minimum frequency Nodes and adds them and again Insert it into MinHeap. This process continues till only 1 Node is
    there in the Heap. Then using tree traversal(inorder) we can assign 0's and 1's and thus compression is achieved.
    WikiPedia Link for HuffMan Coding Explanation: https://en.wikipedia.org/wiki/Huffman_coding#Terminology.
